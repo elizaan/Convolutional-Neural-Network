@@ -1,0 +1,1620 @@
+Calculating loss, accuracy, and F1 Score for CIFAR data...
+The loss value for epoch 1 and batch 0 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 0 is:  0.0625
+F1 score on train data for epoch 1 and batch 0 is:  0.03151515151515152
+
+
+The loss value for epoch 1 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 1 is:  0.03125
+F1 score on train data for epoch 1 and batch 1 is:  0.006060606060606061
+
+
+The loss value for epoch 1 and batch 2 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 2 is:  0.1875
+F1 score on train data for epoch 1 and batch 2 is:  0.07941176470588236
+
+
+The loss value for epoch 1 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 3 is:  0.0625
+F1 score on train data for epoch 1 and batch 3 is:  0.03205128205128205
+
+
+The loss value for epoch 1 and batch 4 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 4 is:  0.09375
+F1 score on train data for epoch 1 and batch 4 is:  0.017142857142857144
+
+
+The loss value for epoch 1 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 5 is:  0.03125
+F1 score on train data for epoch 1 and batch 5 is:  0.006060606060606061
+
+
+The loss value for epoch 1 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 6 is:  0.0
+F1 score on train data for epoch 1 and batch 6 is:  0.0
+
+
+The loss value for epoch 1 and batch 7 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 7 is:  0.125
+F1 score on train data for epoch 1 and batch 7 is:  0.04285714285714286
+
+
+The loss value for epoch 1 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 8 is:  0.09375
+F1 score on train data for epoch 1 and batch 8 is:  0.05934065934065933
+
+
+The loss value for epoch 1 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 9 is:  0.125
+F1 score on train data for epoch 1 and batch 9 is:  0.07661782661782662
+
+
+The loss value for epoch 1 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 10 is:  0.09375
+F1 score on train data for epoch 1 and batch 10 is:  0.01904761904761905
+
+
+The loss value for epoch 1 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 11 is:  0.09375
+F1 score on train data for epoch 1 and batch 11 is:  0.02727272727272727
+
+
+The loss value for epoch 1 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 12 is:  0.1875
+F1 score on train data for epoch 1 and batch 12 is:  0.03508771929824561
+
+
+The loss value for epoch 1 and batch 13 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 13 is:  0.15625
+F1 score on train data for epoch 1 and batch 13 is:  0.09432560903149138
+
+
+The loss value for epoch 1 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 14 is:  0.15625
+F1 score on train data for epoch 1 and batch 14 is:  0.06571087216248506
+
+
+The loss value for epoch 1 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 15 is:  0.09375
+F1 score on train data for epoch 1 and batch 15 is:  0.03241968759210138
+
+
+The loss value for epoch 1 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 16 is:  0.0625
+F1 score on train data for epoch 1 and batch 16 is:  0.01532567049808429
+
+
+The loss value for epoch 1 and batch 17 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 17 is:  0.0625
+F1 score on train data for epoch 1 and batch 17 is:  0.024761904761904763
+
+
+The loss value for epoch 1 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 18 is:  0.09375
+F1 score on train data for epoch 1 and batch 18 is:  0.0325
+
+
+The loss value for epoch 1 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 19 is:  0.0625
+F1 score on train data for epoch 1 and batch 19 is:  0.01346801346801347
+
+
+The loss value for epoch 1 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 20 is:  0.03125
+F1 score on train data for epoch 1 and batch 20 is:  0.009523809523809525
+
+
+The loss value for epoch 1 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 21 is:  0.09375
+F1 score on train data for epoch 1 and batch 21 is:  0.0196078431372549
+
+
+The loss value for epoch 1 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 22 is:  0.0625
+F1 score on train data for epoch 1 and batch 22 is:  0.013793103448275865
+
+
+The loss value for epoch 1 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 23 is:  0.09375
+F1 score on train data for epoch 1 and batch 23 is:  0.02222222222222222
+
+
+The loss value for epoch 1 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 24 is:  0.21875
+F1 score on train data for epoch 1 and batch 24 is:  0.039886039886039885
+
+
+The loss value for epoch 1 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 25 is:  0.0625
+F1 score on train data for epoch 1 and batch 25 is:  0.03571428571428572
+
+
+The loss value for epoch 1 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 26 is:  0.03125
+F1 score on train data for epoch 1 and batch 26 is:  0.022222222222222223
+
+
+The loss value for epoch 1 and batch 27 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 27 is:  0.0625
+F1 score on train data for epoch 1 and batch 27 is:  0.01724137931034483
+
+
+The loss value for epoch 1 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 28 is:  0.09375
+F1 score on train data for epoch 1 and batch 28 is:  0.02142857142857143
+
+
+The loss value for epoch 1 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 29 is:  0.15625
+F1 score on train data for epoch 1 and batch 29 is:  0.033783783783783786
+
+
+The loss value for epoch 1 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 30 is:  0.15625
+F1 score on train data for epoch 1 and batch 30 is:  0.07248677248677249
+
+
+The loss value for epoch 1 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 31 is:  0.0625
+F1 score on train data for epoch 1 and batch 31 is:  0.01666666666666667
+
+
+The loss value for epoch 2 and batch 0 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 0 is:  0.03125
+F1 score on train data for epoch 2 and batch 0 is:  0.02222222222222222
+
+
+The loss value for epoch 2 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 1 is:  0.125
+F1 score on train data for epoch 2 and batch 1 is:  0.03555555555555555
+
+
+The loss value for epoch 2 and batch 2 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 2 is:  0.1875
+F1 score on train data for epoch 2 and batch 2 is:  0.08104575163398693
+
+
+The loss value for epoch 2 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 3 is:  0.125
+F1 score on train data for epoch 2 and batch 3 is:  0.02222222222222222
+
+
+The loss value for epoch 2 and batch 4 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 4 is:  0.03125
+F1 score on train data for epoch 2 and batch 4 is:  0.01
+
+
+The loss value for epoch 2 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 5 is:  0.03125
+F1 score on train data for epoch 2 and batch 5 is:  0.008695652173913044
+
+
+The loss value for epoch 2 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 6 is:  0.0
+F1 score on train data for epoch 2 and batch 6 is:  0.0
+
+
+The loss value for epoch 2 and batch 7 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 7 is:  0.09375
+F1 score on train data for epoch 2 and batch 7 is:  0.11666666666666667
+
+
+The loss value for epoch 2 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 8 is:  0.09375
+F1 score on train data for epoch 2 and batch 8 is:  0.01764705882352941
+
+
+The loss value for epoch 2 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 9 is:  0.125
+F1 score on train data for epoch 2 and batch 9 is:  0.026936026936026935
+
+
+The loss value for epoch 2 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 10 is:  0.0625
+F1 score on train data for epoch 2 and batch 10 is:  0.03636363636363636
+
+
+The loss value for epoch 2 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 11 is:  0.03125
+F1 score on train data for epoch 2 and batch 11 is:  0.006896551724137929
+
+
+The loss value for epoch 2 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 12 is:  0.1875
+F1 score on train data for epoch 2 and batch 12 is:  0.03428571428571429
+
+
+The loss value for epoch 2 and batch 13 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 13 is:  0.03125
+F1 score on train data for epoch 2 and batch 13 is:  0.018518518518518517
+
+
+The loss value for epoch 2 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 14 is:  0.0625
+F1 score on train data for epoch 2 and batch 14 is:  0.03409090909090909
+
+
+The loss value for epoch 2 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 15 is:  0.0625
+F1 score on train data for epoch 2 and batch 15 is:  0.01346801346801347
+
+
+The loss value for epoch 2 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 16 is:  0.0625
+F1 score on train data for epoch 2 and batch 16 is:  0.014336917562724014
+
+
+The loss value for epoch 2 and batch 17 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 17 is:  0.03125
+F1 score on train data for epoch 2 and batch 17 is:  0.012345679012345678
+
+
+The loss value for epoch 2 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 18 is:  0.15625
+F1 score on train data for epoch 2 and batch 18 is:  0.15909774436090224
+
+
+The loss value for epoch 2 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 19 is:  0.1875
+F1 score on train data for epoch 2 and batch 19 is:  0.07222222222222223
+
+
+The loss value for epoch 2 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 20 is:  0.0625
+F1 score on train data for epoch 2 and batch 20 is:  0.0130718954248366
+
+
+The loss value for epoch 2 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 21 is:  0.0625
+F1 score on train data for epoch 2 and batch 21 is:  0.03292181069958847
+
+
+The loss value for epoch 2 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 22 is:  0.09375
+F1 score on train data for epoch 2 and batch 22 is:  0.01904761904761905
+
+
+The loss value for epoch 2 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 23 is:  0.125
+F1 score on train data for epoch 2 and batch 23 is:  0.0253968253968254
+
+
+The loss value for epoch 2 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 24 is:  0.0625
+F1 score on train data for epoch 2 and batch 24 is:  0.013888888888888888
+
+
+The loss value for epoch 2 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 25 is:  0.0625
+F1 score on train data for epoch 2 and batch 25 is:  0.025757575757575757
+
+
+The loss value for epoch 2 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 26 is:  0.0625
+F1 score on train data for epoch 2 and batch 26 is:  0.034188034188034185
+
+
+The loss value for epoch 2 and batch 27 is: -3.199999841868386e-06
+Accuracy value on train data for epoch 2 and batch 27 is:  0.09375
+F1 score on train data for epoch 2 and batch 27 is:  0.03935185185185185
+
+
+The loss value for epoch 2 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 28 is:  0.0625
+F1 score on train data for epoch 2 and batch 28 is:  0.03835978835978836
+
+
+The loss value for epoch 2 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 29 is:  0.125
+F1 score on train data for epoch 2 and batch 29 is:  0.03333333333333333
+
+
+The loss value for epoch 2 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 30 is:  0.28125
+F1 score on train data for epoch 2 and batch 30 is:  0.10172413793103449
+
+
+The loss value for epoch 2 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 31 is:  0.03125
+F1 score on train data for epoch 2 and batch 31 is:  0.03703703703703704
+
+
+The loss value for epoch 3 and batch 0 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 0 is:  0.1875
+F1 score on train data for epoch 3 and batch 0 is:  0.031578947368421054
+
+
+The loss value for epoch 3 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 1 is:  0.03125
+F1 score on train data for epoch 3 and batch 1 is:  0.01
+
+
+The loss value for epoch 3 and batch 2 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 2 is:  0.15625
+F1 score on train data for epoch 3 and batch 2 is:  0.06875
+
+
+The loss value for epoch 3 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 3 is:  0.0625
+F1 score on train data for epoch 3 and batch 3 is:  0.012903225806451613
+
+
+The loss value for epoch 3 and batch 4 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 4 is:  0.0625
+F1 score on train data for epoch 3 and batch 4 is:  0.04242424242424242
+
+
+The loss value for epoch 3 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 5 is:  0.125
+F1 score on train data for epoch 3 and batch 5 is:  0.025806451612903226
+
+
+The loss value for epoch 3 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 6 is:  0.15625
+F1 score on train data for epoch 3 and batch 6 is:  0.054761904761904755
+
+
+The loss value for epoch 3 and batch 7 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 7 is:  0.15625
+F1 score on train data for epoch 3 and batch 7 is:  0.04722222222222222
+
+
+The loss value for epoch 3 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 8 is:  0.125
+F1 score on train data for epoch 3 and batch 8 is:  0.02222222222222222
+
+
+The loss value for epoch 3 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 9 is:  0.125
+F1 score on train data for epoch 3 and batch 9 is:  0.024691358024691357
+
+
+The loss value for epoch 3 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 10 is:  0.03125
+F1 score on train data for epoch 3 and batch 10 is:  0.02
+
+
+The loss value for epoch 3 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 11 is:  0.09375
+F1 score on train data for epoch 3 and batch 11 is:  0.01904761904761905
+
+
+The loss value for epoch 3 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 12 is:  0.15625
+F1 score on train data for epoch 3 and batch 12 is:  0.031746031746031744
+
+
+The loss value for epoch 3 and batch 13 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 13 is:  0.125
+F1 score on train data for epoch 3 and batch 13 is:  0.0253968253968254
+
+
+The loss value for epoch 3 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 14 is:  0.0625
+F1 score on train data for epoch 3 and batch 14 is:  0.015873015873015872
+
+
+The loss value for epoch 3 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 15 is:  0.1875
+F1 score on train data for epoch 3 and batch 15 is:  0.07407407407407408
+
+
+The loss value for epoch 3 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 16 is:  0.21875
+F1 score on train data for epoch 3 and batch 16 is:  0.039886039886039885
+
+
+The loss value for epoch 3 and batch 17 is: -3.199999841868386e-06
+Accuracy value on train data for epoch 3 and batch 17 is:  0.15625
+F1 score on train data for epoch 3 and batch 17 is:  0.03831417624521073
+
+
+The loss value for epoch 3 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 18 is:  0.0625
+F1 score on train data for epoch 3 and batch 18 is:  0.03501683501683502
+
+
+The loss value for epoch 3 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 19 is:  0.09375
+F1 score on train data for epoch 3 and batch 19 is:  0.031908831908831904
+
+
+The loss value for epoch 3 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 20 is:  0.125
+F1 score on train data for epoch 3 and batch 20 is:  0.06464646464646465
+
+
+The loss value for epoch 3 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 21 is:  0.09375
+F1 score on train data for epoch 3 and batch 21 is:  0.0411522633744856
+
+
+The loss value for epoch 3 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 22 is:  0.09375
+F1 score on train data for epoch 3 and batch 22 is:  0.01904761904761905
+
+
+The loss value for epoch 3 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 23 is:  0.0625
+F1 score on train data for epoch 3 and batch 23 is:  0.013071895424836602
+
+
+The loss value for epoch 3 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 24 is:  0.09375
+F1 score on train data for epoch 3 and batch 24 is:  0.01904761904761905
+
+
+The loss value for epoch 3 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 25 is:  0.03125
+F1 score on train data for epoch 3 and batch 25 is:  0.006734006734006735
+
+
+The loss value for epoch 3 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 26 is:  0.125
+F1 score on train data for epoch 3 and batch 26 is:  0.03225806451612903
+
+
+The loss value for epoch 3 and batch 27 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 27 is:  0.125
+F1 score on train data for epoch 3 and batch 27 is:  0.027777777777777776
+
+
+The loss value for epoch 3 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 28 is:  0.125
+F1 score on train data for epoch 3 and batch 28 is:  0.03225806451612903
+
+
+The loss value for epoch 3 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 29 is:  0.21875
+F1 score on train data for epoch 3 and batch 29 is:  0.04487179487179487
+
+
+The loss value for epoch 3 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 30 is:  0.09375
+F1 score on train data for epoch 3 and batch 30 is:  0.02142857142857143
+
+
+The loss value for epoch 3 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 31 is:  0.09375
+F1 score on train data for epoch 3 and batch 31 is:  0.050793650793650794
+
+
+The loss value for epoch 4 and batch 0 is: -3.199999841868386e-06
+Accuracy value on train data for epoch 4 and batch 0 is:  0.15625
+F1 score on train data for epoch 4 and batch 0 is:  0.07698412698412699
+
+
+The loss value for epoch 4 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 1 is:  0.125
+F1 score on train data for epoch 4 and batch 1 is:  0.05995604395604396
+
+
+The loss value for epoch 4 and batch 2 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 2 is:  0.09375
+F1 score on train data for epoch 4 and batch 2 is:  0.04841269841269842
+
+
+The loss value for epoch 4 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 3 is:  0.125
+F1 score on train data for epoch 4 and batch 3 is:  0.04435483870967742
+
+
+The loss value for epoch 4 and batch 4 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 4 is:  0.03125
+F1 score on train data for epoch 4 and batch 4 is:  0.0064516129032258064
+
+
+The loss value for epoch 4 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 5 is:  0.09375
+F1 score on train data for epoch 4 and batch 5 is:  0.017647058823529415
+
+
+The loss value for epoch 4 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 6 is:  0.09375
+F1 score on train data for epoch 4 and batch 6 is:  0.020689655172413793
+
+
+The loss value for epoch 4 and batch 7 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 7 is:  0.03125
+F1 score on train data for epoch 4 and batch 7 is:  0.006060606060606061
+
+
+The loss value for epoch 4 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 8 is:  0.03125
+F1 score on train data for epoch 4 and batch 8 is:  0.008
+
+
+The loss value for epoch 4 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 9 is:  0.0
+F1 score on train data for epoch 4 and batch 9 is:  0.0
+
+
+The loss value for epoch 4 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 10 is:  0.21875
+F1 score on train data for epoch 4 and batch 10 is:  0.039886039886039885
+
+
+The loss value for epoch 4 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 11 is:  0.03125
+F1 score on train data for epoch 4 and batch 11 is:  0.007692307692307693
+
+
+The loss value for epoch 4 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 12 is:  0.15625
+F1 score on train data for epoch 4 and batch 12 is:  0.046296296296296294
+
+
+The loss value for epoch 4 and batch 13 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 13 is:  0.09375
+F1 score on train data for epoch 4 and batch 13 is:  0.046153846153846156
+
+
+The loss value for epoch 4 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 14 is:  0.15625
+F1 score on train data for epoch 4 and batch 14 is:  0.09640852974186306
+
+
+The loss value for epoch 4 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 15 is:  0.125
+F1 score on train data for epoch 4 and batch 15 is:  0.024691358024691357
+
+
+The loss value for epoch 4 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 16 is:  0.21875
+F1 score on train data for epoch 4 and batch 16 is:  0.039886039886039885
+
+
+The loss value for epoch 4 and batch 17 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 17 is:  0.0625
+F1 score on train data for epoch 4 and batch 17 is:  0.013071895424836602
+
+
+The loss value for epoch 4 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 18 is:  0.15625
+F1 score on train data for epoch 4 and batch 18 is:  0.02702702702702702
+
+
+The loss value for epoch 4 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 19 is:  0.0625
+F1 score on train data for epoch 4 and batch 19 is:  0.029863855950812465
+
+
+The loss value for epoch 4 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 20 is:  0.15625
+F1 score on train data for epoch 4 and batch 20 is:  0.09427609427609426
+
+
+The loss value for epoch 4 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 21 is:  0.09375
+F1 score on train data for epoch 4 and batch 21 is:  0.057239057239057235
+
+
+The loss value for epoch 4 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 22 is:  0.0625
+F1 score on train data for epoch 4 and batch 22 is:  0.032354193273733504
+
+
+The loss value for epoch 4 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 23 is:  0.125
+F1 score on train data for epoch 4 and batch 23 is:  0.027777777777777776
+
+
+The loss value for epoch 4 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 24 is:  0.125
+F1 score on train data for epoch 4 and batch 24 is:  0.02424242424242424
+
+
+The loss value for epoch 4 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 25 is:  0.03125
+F1 score on train data for epoch 4 and batch 25 is:  0.006734006734006735
+
+
+The loss value for epoch 4 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 26 is:  0.125
+F1 score on train data for epoch 4 and batch 26 is:  0.05333333333333333
+
+
+The loss value for epoch 4 and batch 27 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 27 is:  0.15625
+F1 score on train data for epoch 4 and batch 27 is:  0.0553030303030303
+
+
+The loss value for epoch 4 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 28 is:  0.09375
+F1 score on train data for epoch 4 and batch 28 is:  0.05555555555555556
+
+
+The loss value for epoch 4 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 29 is:  0.09375
+F1 score on train data for epoch 4 and batch 29 is:  0.03923076923076923
+
+
+The loss value for epoch 4 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 30 is:  0.09375
+F1 score on train data for epoch 4 and batch 30 is:  0.07122507122507121
+
+
+The loss value for epoch 4 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 31 is:  0.15625
+F1 score on train data for epoch 4 and batch 31 is:  0.0308641975308642
+
+
+The loss value for epoch 5 and batch 0 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 0 is:  0.125
+F1 score on train data for epoch 5 and batch 0 is:  0.02222222222222222
+
+
+The loss value for epoch 5 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 1 is:  0.1875
+F1 score on train data for epoch 5 and batch 1 is:  0.03529411764705882
+
+
+The loss value for epoch 5 and batch 2 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 2 is:  0.09375
+F1 score on train data for epoch 5 and batch 2 is:  0.01764705882352941
+
+
+The loss value for epoch 5 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 3 is:  0.15625
+F1 score on train data for epoch 5 and batch 3 is:  0.07142857142857142
+
+
+The loss value for epoch 5 and batch 4 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 4 is:  0.09375
+F1 score on train data for epoch 5 and batch 4 is:  0.04814814814814815
+
+
+The loss value for epoch 5 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 5 is:  0.0625
+F1 score on train data for epoch 5 and batch 5 is:  0.03523809523809524
+
+
+The loss value for epoch 5 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 6 is:  0.125
+F1 score on train data for epoch 5 and batch 6 is:  0.02222222222222222
+
+
+The loss value for epoch 5 and batch 7 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 7 is:  0.21875
+F1 score on train data for epoch 5 and batch 7 is:  0.09247311827956987
+
+
+The loss value for epoch 5 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 8 is:  0.15625
+F1 score on train data for epoch 5 and batch 8 is:  0.05757575757575757
+
+
+The loss value for epoch 5 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 9 is:  0.125
+F1 score on train data for epoch 5 and batch 9 is:  0.041035353535353536
+
+
+The loss value for epoch 5 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 10 is:  0.0
+F1 score on train data for epoch 5 and batch 10 is:  0.0
+
+
+The loss value for epoch 5 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 11 is:  0.03125
+F1 score on train data for epoch 5 and batch 11 is:  0.006944444444444444
+
+
+The loss value for epoch 5 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 12 is:  0.125
+F1 score on train data for epoch 5 and batch 12 is:  0.0253968253968254
+
+
+The loss value for epoch 5 and batch 13 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 13 is:  0.09375
+F1 score on train data for epoch 5 and batch 13 is:  0.020689655172413793
+
+
+The loss value for epoch 5 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 14 is:  0.0625
+F1 score on train data for epoch 5 and batch 14 is:  0.014814814814814815
+
+
+The loss value for epoch 5 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 15 is:  0.0625
+F1 score on train data for epoch 5 and batch 15 is:  0.014814814814814817
+
+
+The loss value for epoch 5 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 16 is:  0.09375
+F1 score on train data for epoch 5 and batch 16 is:  0.021505376344086016
+
+
+The loss value for epoch 5 and batch 17 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 17 is:  0.1875
+F1 score on train data for epoch 5 and batch 17 is:  0.03603603603603603
+
+
+The loss value for epoch 5 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 18 is:  0.03125
+F1 score on train data for epoch 5 and batch 18 is:  0.008888888888888887
+
+
+The loss value for epoch 5 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 19 is:  0.0
+F1 score on train data for epoch 5 and batch 19 is:  0.0
+
+
+The loss value for epoch 5 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 20 is:  0.125
+F1 score on train data for epoch 5 and batch 20 is:  0.04938271604938271
+
+
+The loss value for epoch 5 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 21 is:  0.15625
+F1 score on train data for epoch 5 and batch 21 is:  0.030864197530864192
+
+
+The loss value for epoch 5 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 22 is:  0.0
+F1 score on train data for epoch 5 and batch 22 is:  0.0
+
+
+The loss value for epoch 5 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 23 is:  0.0
+F1 score on train data for epoch 5 and batch 23 is:  0.0
+
+
+The loss value for epoch 5 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 24 is:  0.125
+F1 score on train data for epoch 5 and batch 24 is:  0.04584304584304585
+
+
+The loss value for epoch 5 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 25 is:  0.0625
+F1 score on train data for epoch 5 and batch 25 is:  0.03940886699507389
+
+
+The loss value for epoch 5 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 26 is:  0.21875
+F1 score on train data for epoch 5 and batch 26 is:  0.04093567251461988
+
+
+The loss value for epoch 5 and batch 27 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 27 is:  0.03125
+F1 score on train data for epoch 5 and batch 27 is:  0.017094017094017092
+
+
+The loss value for epoch 5 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 28 is:  0.09375
+F1 score on train data for epoch 5 and batch 28 is:  0.02142857142857143
+
+
+The loss value for epoch 5 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 29 is:  0.0
+F1 score on train data for epoch 5 and batch 29 is:  0.0
+
+
+The loss value for epoch 5 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 30 is:  0.0
+F1 score on train data for epoch 5 and batch 30 is:  0.0
+
+
+The loss value for epoch 5 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 31 is:  0.125
+F1 score on train data for epoch 5 and batch 31 is:  0.02962962962962963
+
+
+[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 1. ... 0. 0. 0.]
+ [0. 0. 0. ... 1. 0. 0.]
+ ...
+ [0. 0. 0. ... 1. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 1. 0. 0.]]
+Accuracy value on test data is:  0.105
+F1 score on test data is:  0.04144515298281799
+Calculating loss, accuracy, and F1 Score for MNIST data...
+The loss value for epoch 1 and batch 0 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 0 is:  0.03125
+F1 score on train data for epoch 1 and batch 0 is:  0.01
+
+
+The loss value for epoch 1 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 1 is:  0.09375
+F1 score on train data for epoch 1 and batch 1 is:  0.08333333333333333
+
+
+The loss value for epoch 1 and batch 2 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 2 is:  0.15625
+F1 score on train data for epoch 1 and batch 2 is:  0.0891025641025641
+
+
+The loss value for epoch 1 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 3 is:  0.0625
+F1 score on train data for epoch 1 and batch 3 is:  0.016
+
+
+The loss value for epoch 1 and batch 4 is: -3.199999841868386e-06
+Accuracy value on train data for epoch 1 and batch 4 is:  0.0625
+F1 score on train data for epoch 1 and batch 4 is:  0.022285714285714287
+
+
+The loss value for epoch 1 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 5 is:  0.0625
+F1 score on train data for epoch 1 and batch 5 is:  0.024080267558528427
+
+
+The loss value for epoch 1 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 6 is:  0.09375
+F1 score on train data for epoch 1 and batch 6 is:  0.03205128205128205
+
+
+The loss value for epoch 1 and batch 7 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 7 is:  0.09375
+F1 score on train data for epoch 1 and batch 7 is:  0.02222222222222222
+
+
+The loss value for epoch 1 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 8 is:  0.125
+F1 score on train data for epoch 1 and batch 8 is:  0.047926267281105994
+
+
+The loss value for epoch 1 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 9 is:  0.03125
+F1 score on train data for epoch 1 and batch 9 is:  0.025
+
+
+The loss value for epoch 1 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 10 is:  0.125
+F1 score on train data for epoch 1 and batch 10 is:  0.026666666666666672
+
+
+The loss value for epoch 1 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 11 is:  0.09375
+F1 score on train data for epoch 1 and batch 11 is:  0.03601532567049809
+
+
+The loss value for epoch 1 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 12 is:  0.03125
+F1 score on train data for epoch 1 and batch 12 is:  0.007142857142857143
+
+
+The loss value for epoch 1 and batch 13 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 13 is:  0.0625
+F1 score on train data for epoch 1 and batch 13 is:  0.026666666666666665
+
+
+The loss value for epoch 1 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 14 is:  0.0625
+F1 score on train data for epoch 1 and batch 14 is:  0.023859649122807018
+
+
+The loss value for epoch 1 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 15 is:  0.0
+F1 score on train data for epoch 1 and batch 15 is:  0.0
+
+
+The loss value for epoch 1 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 16 is:  0.1875
+F1 score on train data for epoch 1 and batch 16 is:  0.09047619047619049
+
+
+The loss value for epoch 1 and batch 17 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 17 is:  0.0625
+F1 score on train data for epoch 1 and batch 17 is:  0.03333333333333334
+
+
+The loss value for epoch 1 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 18 is:  0.0625
+F1 score on train data for epoch 1 and batch 18 is:  0.012903225806451613
+
+
+The loss value for epoch 1 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 19 is:  0.25
+F1 score on train data for epoch 1 and batch 19 is:  0.13832442067736186
+
+
+The loss value for epoch 1 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 20 is:  0.09375
+F1 score on train data for epoch 1 and batch 20 is:  0.017142857142857144
+
+
+The loss value for epoch 1 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 21 is:  0.15625
+F1 score on train data for epoch 1 and batch 21 is:  0.07908496732026145
+
+
+The loss value for epoch 1 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 22 is:  0.0625
+F1 score on train data for epoch 1 and batch 22 is:  0.013793103448275862
+
+
+The loss value for epoch 1 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 23 is:  0.0
+F1 score on train data for epoch 1 and batch 23 is:  0.0
+
+
+The loss value for epoch 1 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 24 is:  0.0
+F1 score on train data for epoch 1 and batch 24 is:  0.0
+
+
+The loss value for epoch 1 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 25 is:  0.03125
+F1 score on train data for epoch 1 and batch 25 is:  0.007142857142857143
+
+
+The loss value for epoch 1 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 26 is:  0.0625
+F1 score on train data for epoch 1 and batch 26 is:  0.05
+
+
+The loss value for epoch 1 and batch 27 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 27 is:  0.03125
+F1 score on train data for epoch 1 and batch 27 is:  0.007692307692307693
+
+
+The loss value for epoch 1 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 28 is:  0.03125
+F1 score on train data for epoch 1 and batch 28 is:  0.006666666666666666
+
+
+The loss value for epoch 1 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 29 is:  0.125
+F1 score on train data for epoch 1 and batch 29 is:  0.026143790849673203
+
+
+The loss value for epoch 1 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 30 is:  0.09375
+F1 score on train data for epoch 1 and batch 30 is:  0.03398692810457517
+
+
+The loss value for epoch 1 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 1 and batch 31 is:  0.09375
+F1 score on train data for epoch 1 and batch 31 is:  0.04707170224411604
+
+
+The loss value for epoch 2 and batch 0 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 0 is:  0.15625
+F1 score on train data for epoch 2 and batch 0 is:  0.02702702702702703
+
+
+The loss value for epoch 2 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 1 is:  0.09375
+F1 score on train data for epoch 2 and batch 1 is:  0.01818181818181818
+
+
+The loss value for epoch 2 and batch 2 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 2 is:  0.1875
+F1 score on train data for epoch 2 and batch 2 is:  0.08910256410256409
+
+
+The loss value for epoch 2 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 3 is:  0.21875
+F1 score on train data for epoch 2 and batch 3 is:  0.07142857142857142
+
+
+The loss value for epoch 2 and batch 4 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 4 is:  0.125
+F1 score on train data for epoch 2 and batch 4 is:  0.02285714285714286
+
+
+The loss value for epoch 2 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 5 is:  0.125
+F1 score on train data for epoch 2 and batch 5 is:  0.049494949494949494
+
+
+The loss value for epoch 2 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 6 is:  0.0625
+F1 score on train data for epoch 2 and batch 6 is:  0.019047619047619046
+
+
+The loss value for epoch 2 and batch 7 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 7 is:  0.09375
+F1 score on train data for epoch 2 and batch 7 is:  0.042364532019704436
+
+
+The loss value for epoch 2 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 8 is:  0.125
+F1 score on train data for epoch 2 and batch 8 is:  0.03636363636363636
+
+
+The loss value for epoch 2 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 9 is:  0.0625
+F1 score on train data for epoch 2 and batch 9 is:  0.021052631578947368
+
+
+The loss value for epoch 2 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 10 is:  0.125
+F1 score on train data for epoch 2 and batch 10 is:  0.04239130434782609
+
+
+The loss value for epoch 2 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 11 is:  0.15625
+F1 score on train data for epoch 2 and batch 11 is:  0.07222222222222222
+
+
+The loss value for epoch 2 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 12 is:  0.0625
+F1 score on train data for epoch 2 and batch 12 is:  0.025098039215686273
+
+
+The loss value for epoch 2 and batch 13 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 13 is:  0.09375
+F1 score on train data for epoch 2 and batch 13 is:  0.019999999999999997
+
+
+The loss value for epoch 2 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 14 is:  0.125
+F1 score on train data for epoch 2 and batch 14 is:  0.02222222222222222
+
+
+The loss value for epoch 2 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 15 is:  0.09375
+F1 score on train data for epoch 2 and batch 15 is:  0.02142857142857143
+
+
+The loss value for epoch 2 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 16 is:  0.09375
+F1 score on train data for epoch 2 and batch 16 is:  0.07956989247311827
+
+
+The loss value for epoch 2 and batch 17 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 17 is:  0.09375
+F1 score on train data for epoch 2 and batch 17 is:  0.01875
+
+
+The loss value for epoch 2 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 18 is:  0.0625
+F1 score on train data for epoch 2 and batch 18 is:  0.04333333333333333
+
+
+The loss value for epoch 2 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 19 is:  0.09375
+F1 score on train data for epoch 2 and batch 19 is:  0.04929292929292929
+
+
+The loss value for epoch 2 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 20 is:  0.09375
+F1 score on train data for epoch 2 and batch 20 is:  0.01764705882352941
+
+
+The loss value for epoch 2 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 21 is:  0.09375
+F1 score on train data for epoch 2 and batch 21 is:  0.017142857142857144
+
+
+The loss value for epoch 2 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 22 is:  0.09375
+F1 score on train data for epoch 2 and batch 22 is:  0.031677018633540374
+
+
+The loss value for epoch 2 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 23 is:  0.15625
+F1 score on train data for epoch 2 and batch 23 is:  0.027777777777777773
+
+
+The loss value for epoch 2 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 24 is:  0.0625
+F1 score on train data for epoch 2 and batch 24 is:  0.011764705882352941
+
+
+The loss value for epoch 2 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 25 is:  0.0625
+F1 score on train data for epoch 2 and batch 25 is:  0.02428571428571429
+
+
+The loss value for epoch 2 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 26 is:  0.09375
+F1 score on train data for epoch 2 and batch 26 is:  0.01764705882352941
+
+
+The loss value for epoch 2 and batch 27 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 27 is:  0.1875
+F1 score on train data for epoch 2 and batch 27 is:  0.0827936507936508
+
+
+The loss value for epoch 2 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 28 is:  0.125
+F1 score on train data for epoch 2 and batch 28 is:  0.06
+
+
+The loss value for epoch 2 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 29 is:  0.1875
+F1 score on train data for epoch 2 and batch 29 is:  0.07631874298540965
+
+
+The loss value for epoch 2 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 30 is:  0.1875
+F1 score on train data for epoch 2 and batch 30 is:  0.03529411764705882
+
+
+The loss value for epoch 2 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 2 and batch 31 is:  0.09375
+F1 score on train data for epoch 2 and batch 31 is:  0.04710144927536232
+
+
+The loss value for epoch 3 and batch 0 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 0 is:  0.15625
+F1 score on train data for epoch 3 and batch 0 is:  0.1
+
+
+The loss value for epoch 3 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 1 is:  0.0625
+F1 score on train data for epoch 3 and batch 1 is:  0.023529411764705882
+
+
+The loss value for epoch 3 and batch 2 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 2 is:  0.09375
+F1 score on train data for epoch 3 and batch 2 is:  0.02307692307692307
+
+
+The loss value for epoch 3 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 3 is:  0.21875
+F1 score on train data for epoch 3 and batch 3 is:  0.06650717703349282
+
+
+The loss value for epoch 3 and batch 4 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 4 is:  0.0625
+F1 score on train data for epoch 3 and batch 4 is:  0.03214285714285715
+
+
+The loss value for epoch 3 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 5 is:  0.0625
+F1 score on train data for epoch 3 and batch 5 is:  0.01212121212121212
+
+
+The loss value for epoch 3 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 6 is:  0.0625
+F1 score on train data for epoch 3 and batch 6 is:  0.019047619047619046
+
+
+The loss value for epoch 3 and batch 7 is: -3.199999841868386e-06
+Accuracy value on train data for epoch 3 and batch 7 is:  0.03125
+F1 score on train data for epoch 3 and batch 7 is:  0.006666666666666666
+
+
+The loss value for epoch 3 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 8 is:  0.125
+F1 score on train data for epoch 3 and batch 8 is:  0.02758620689655173
+
+
+The loss value for epoch 3 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 9 is:  0.125
+F1 score on train data for epoch 3 and batch 9 is:  0.05952380952380952
+
+
+The loss value for epoch 3 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 10 is:  0.1875
+F1 score on train data for epoch 3 and batch 10 is:  0.06593406593406594
+
+
+The loss value for epoch 3 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 11 is:  0.0625
+F1 score on train data for epoch 3 and batch 11 is:  0.014285714285714285
+
+
+The loss value for epoch 3 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 12 is:  0.09375
+F1 score on train data for epoch 3 and batch 12 is:  0.02222222222222222
+
+
+The loss value for epoch 3 and batch 13 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 13 is:  0.0625
+F1 score on train data for epoch 3 and batch 13 is:  0.021052631578947368
+
+
+The loss value for epoch 3 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 14 is:  0.0625
+F1 score on train data for epoch 3 and batch 14 is:  0.022222222222222223
+
+
+The loss value for epoch 3 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 15 is:  0.0625
+F1 score on train data for epoch 3 and batch 15 is:  0.013333333333333332
+
+
+The loss value for epoch 3 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 16 is:  0.1875
+F1 score on train data for epoch 3 and batch 16 is:  0.058666666666666666
+
+
+The loss value for epoch 3 and batch 17 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 17 is:  0.0625
+F1 score on train data for epoch 3 and batch 17 is:  0.012121212121212121
+
+
+The loss value for epoch 3 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 18 is:  0.03125
+F1 score on train data for epoch 3 and batch 18 is:  0.014285714285714287
+
+
+The loss value for epoch 3 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 19 is:  0.0625
+F1 score on train data for epoch 3 and batch 19 is:  0.04318181818181818
+
+
+The loss value for epoch 3 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 20 is:  0.15625
+F1 score on train data for epoch 3 and batch 20 is:  0.027777777777777773
+
+
+The loss value for epoch 3 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 21 is:  0.03125
+F1 score on train data for epoch 3 and batch 21 is:  0.007142857142857143
+
+
+The loss value for epoch 3 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 22 is:  0.09375
+F1 score on train data for epoch 3 and batch 22 is:  0.037037037037037035
+
+
+The loss value for epoch 3 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 23 is:  0.09375
+F1 score on train data for epoch 3 and batch 23 is:  0.04583333333333333
+
+
+The loss value for epoch 3 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 24 is:  0.0625
+F1 score on train data for epoch 3 and batch 24 is:  0.01818181818181818
+
+
+The loss value for epoch 3 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 25 is:  0.09375
+F1 score on train data for epoch 3 and batch 25 is:  0.043859649122807015
+
+
+The loss value for epoch 3 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 26 is:  0.09375
+F1 score on train data for epoch 3 and batch 26 is:  0.019999999999999997
+
+
+The loss value for epoch 3 and batch 27 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 27 is:  0.0625
+F1 score on train data for epoch 3 and batch 27 is:  0.04833333333333334
+
+
+The loss value for epoch 3 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 28 is:  0.09375
+F1 score on train data for epoch 3 and batch 28 is:  0.02142857142857143
+
+
+The loss value for epoch 3 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 29 is:  0.125
+F1 score on train data for epoch 3 and batch 29 is:  0.03292181069958848
+
+
+The loss value for epoch 3 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 30 is:  0.125
+F1 score on train data for epoch 3 and batch 30 is:  0.02867383512544803
+
+
+The loss value for epoch 3 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 3 and batch 31 is:  0.125
+F1 score on train data for epoch 3 and batch 31 is:  0.024691358024691357
+
+
+The loss value for epoch 4 and batch 0 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 0 is:  0.1875
+F1 score on train data for epoch 4 and batch 0 is:  0.11499999999999999
+
+
+The loss value for epoch 4 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 1 is:  0.09375
+F1 score on train data for epoch 4 and batch 1 is:  0.025
+
+
+The loss value for epoch 4 and batch 2 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 2 is:  0.125
+F1 score on train data for epoch 4 and batch 2 is:  0.04157894736842105
+
+
+The loss value for epoch 4 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 3 is:  0.125
+F1 score on train data for epoch 4 and batch 3 is:  0.08249999999999999
+
+
+The loss value for epoch 4 and batch 4 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 4 is:  0.0625
+F1 score on train data for epoch 4 and batch 4 is:  0.019999999999999997
+
+
+The loss value for epoch 4 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 5 is:  0.09375
+F1 score on train data for epoch 4 and batch 5 is:  0.07916666666666668
+
+
+The loss value for epoch 4 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 6 is:  0.1875
+F1 score on train data for epoch 4 and batch 6 is:  0.09333333333333332
+
+
+The loss value for epoch 4 and batch 7 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 7 is:  0.0625
+F1 score on train data for epoch 4 and batch 7 is:  0.07857142857142858
+
+
+The loss value for epoch 4 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 8 is:  0.15625
+F1 score on train data for epoch 4 and batch 8 is:  0.08890977443609023
+
+
+The loss value for epoch 4 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 9 is:  0.0625
+F1 score on train data for epoch 4 and batch 9 is:  0.016
+
+
+The loss value for epoch 4 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 10 is:  0.0625
+F1 score on train data for epoch 4 and batch 10 is:  0.04038461538461539
+
+
+The loss value for epoch 4 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 11 is:  0.0625
+F1 score on train data for epoch 4 and batch 11 is:  0.012121212121212121
+
+
+The loss value for epoch 4 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 12 is:  0.09375
+F1 score on train data for epoch 4 and batch 12 is:  0.05261904761904762
+
+
+The loss value for epoch 4 and batch 13 is: -3.199999841868386e-06
+Accuracy value on train data for epoch 4 and batch 13 is:  0.09375
+F1 score on train data for epoch 4 and batch 13 is:  0.041474654377880185
+
+
+The loss value for epoch 4 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 14 is:  0.125
+F1 score on train data for epoch 4 and batch 14 is:  0.04107142857142857
+
+
+The loss value for epoch 4 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 15 is:  0.0
+F1 score on train data for epoch 4 and batch 15 is:  0.0
+
+
+The loss value for epoch 4 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 16 is:  0.09375
+F1 score on train data for epoch 4 and batch 16 is:  0.017142857142857144
+
+
+The loss value for epoch 4 and batch 17 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 17 is:  0.09375
+F1 score on train data for epoch 4 and batch 17 is:  0.020689655172413793
+
+
+The loss value for epoch 4 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 18 is:  0.09375
+F1 score on train data for epoch 4 and batch 18 is:  0.049624060150375945
+
+
+The loss value for epoch 4 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 19 is:  0.1875
+F1 score on train data for epoch 4 and batch 19 is:  0.031578947368421054
+
+
+The loss value for epoch 4 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 20 is:  0.0625
+F1 score on train data for epoch 4 and batch 20 is:  0.025
+
+
+The loss value for epoch 4 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 21 is:  0.15625
+F1 score on train data for epoch 4 and batch 21 is:  0.0708496732026144
+
+
+The loss value for epoch 4 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 22 is:  0.0625
+F1 score on train data for epoch 4 and batch 22 is:  0.011764705882352941
+
+
+The loss value for epoch 4 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 23 is:  0.09375
+F1 score on train data for epoch 4 and batch 23 is:  0.04583333333333333
+
+
+The loss value for epoch 4 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 24 is:  0.03125
+F1 score on train data for epoch 4 and batch 24 is:  0.009999999999999998
+
+
+The loss value for epoch 4 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 25 is:  0.125
+F1 score on train data for epoch 4 and batch 25 is:  0.032
+
+
+The loss value for epoch 4 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 26 is:  0.125
+F1 score on train data for epoch 4 and batch 26 is:  0.025806451612903226
+
+
+The loss value for epoch 4 and batch 27 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 27 is:  0.0625
+F1 score on train data for epoch 4 and batch 27 is:  0.02936507936507936
+
+
+The loss value for epoch 4 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 28 is:  0.03125
+F1 score on train data for epoch 4 and batch 28 is:  0.008
+
+
+The loss value for epoch 4 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 29 is:  0.15625
+F1 score on train data for epoch 4 and batch 29 is:  0.1090909090909091
+
+
+The loss value for epoch 4 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 30 is:  0.0625
+F1 score on train data for epoch 4 and batch 30 is:  0.03068783068783069
+
+
+The loss value for epoch 4 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 4 and batch 31 is:  0.0
+F1 score on train data for epoch 4 and batch 31 is:  0.0
+
+
+The loss value for epoch 5 and batch 0 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 0 is:  0.03125
+F1 score on train data for epoch 5 and batch 0 is:  0.025
+
+
+The loss value for epoch 5 and batch 1 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 1 is:  0.15625
+F1 score on train data for epoch 5 and batch 1 is:  0.02857142857142857
+
+
+The loss value for epoch 5 and batch 2 is: -3.199999841868386e-06
+Accuracy value on train data for epoch 5 and batch 2 is:  0.03125
+F1 score on train data for epoch 5 and batch 2 is:  0.008695652173913042
+
+
+The loss value for epoch 5 and batch 3 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 3 is:  0.0625
+F1 score on train data for epoch 5 and batch 3 is:  0.039097744360902256
+
+
+The loss value for epoch 5 and batch 4 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 4 is:  0.125
+F1 score on train data for epoch 5 and batch 4 is:  0.05333333333333333
+
+
+The loss value for epoch 5 and batch 5 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 5 is:  0.09375
+F1 score on train data for epoch 5 and batch 5 is:  0.06290322580645161
+
+
+The loss value for epoch 5 and batch 6 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 6 is:  0.09375
+F1 score on train data for epoch 5 and batch 6 is:  0.01818181818181818
+
+
+The loss value for epoch 5 and batch 7 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 7 is:  0.03125
+F1 score on train data for epoch 5 and batch 7 is:  0.022222222222222223
+
+
+The loss value for epoch 5 and batch 8 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 8 is:  0.09375
+F1 score on train data for epoch 5 and batch 8 is:  0.017142857142857144
+
+
+The loss value for epoch 5 and batch 9 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 9 is:  0.03125
+F1 score on train data for epoch 5 and batch 9 is:  0.0074074074074074086
+
+
+The loss value for epoch 5 and batch 10 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 10 is:  0.0625
+F1 score on train data for epoch 5 and batch 10 is:  0.016
+
+
+The loss value for epoch 5 and batch 11 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 11 is:  0.125
+F1 score on train data for epoch 5 and batch 11 is:  0.06029411764705882
+
+
+The loss value for epoch 5 and batch 12 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 12 is:  0.125
+F1 score on train data for epoch 5 and batch 12 is:  0.023529411764705882
+
+
+The loss value for epoch 5 and batch 13 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 13 is:  0.03125
+F1 score on train data for epoch 5 and batch 13 is:  0.011764705882352941
+
+
+The loss value for epoch 5 and batch 14 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 14 is:  0.09375
+F1 score on train data for epoch 5 and batch 14 is:  0.019354838709677417
+
+
+The loss value for epoch 5 and batch 15 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 15 is:  0.125
+F1 score on train data for epoch 5 and batch 15 is:  0.02285714285714286
+
+
+The loss value for epoch 5 and batch 16 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 16 is:  0.125
+F1 score on train data for epoch 5 and batch 16 is:  0.042105263157894736
+
+
+The loss value for epoch 5 and batch 17 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 17 is:  0.125
+F1 score on train data for epoch 5 and batch 17 is:  0.045299145299145305
+
+
+The loss value for epoch 5 and batch 18 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 18 is:  0.0625
+F1 score on train data for epoch 5 and batch 18 is:  0.013333333333333332
+
+
+The loss value for epoch 5 and batch 19 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 19 is:  0.0625
+F1 score on train data for epoch 5 and batch 19 is:  0.023717948717948717
+
+
+The loss value for epoch 5 and batch 20 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 20 is:  0.15625
+F1 score on train data for epoch 5 and batch 20 is:  0.029411764705882353
+
+
+The loss value for epoch 5 and batch 21 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 21 is:  0.125
+F1 score on train data for epoch 5 and batch 21 is:  0.043181818181818175
+
+
+The loss value for epoch 5 and batch 22 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 22 is:  0.125
+F1 score on train data for epoch 5 and batch 22 is:  0.045
+
+
+The loss value for epoch 5 and batch 23 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 23 is:  0.03125
+F1 score on train data for epoch 5 and batch 23 is:  0.01111111111111111
+
+
+The loss value for epoch 5 and batch 24 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 24 is:  0.0
+F1 score on train data for epoch 5 and batch 24 is:  0.0
+
+
+The loss value for epoch 5 and batch 25 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 25 is:  0.0625
+F1 score on train data for epoch 5 and batch 25 is:  0.04871794871794872
+
+
+The loss value for epoch 5 and batch 26 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 26 is:  0.125
+F1 score on train data for epoch 5 and batch 26 is:  0.02222222222222222
+
+
+The loss value for epoch 5 and batch 27 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 27 is:  0.15625
+F1 score on train data for epoch 5 and batch 27 is:  0.034482758620689655
+
+
+The loss value for epoch 5 and batch 28 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 28 is:  0.15625
+F1 score on train data for epoch 5 and batch 28 is:  0.06845238095238096
+
+
+The loss value for epoch 5 and batch 29 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 29 is:  0.15625
+F1 score on train data for epoch 5 and batch 29 is:  0.06084656084656084
+
+
+The loss value for epoch 5 and batch 30 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 30 is:  0.15625
+F1 score on train data for epoch 5 and batch 30 is:  0.08648056923918994
+
+
+The loss value for epoch 5 and batch 31 is: -3.1999998418683854e-06
+Accuracy value on train data for epoch 5 and batch 31 is:  0.15625
+F1 score on train data for epoch 5 and batch 31 is:  0.062049062049062055
+
+
+[[0. 1. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]]
+Accuracy value on test data is:  0.039
+F1 score on test data is:  0.012617054100142838
